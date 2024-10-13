@@ -1,0 +1,42 @@
+<style>
+body {
+    font-family: Arial, sans-serif; 
+    margin: 20px;
+    background-color: #f5f5f5; 
+    color: #333333; 
+}
+.product {
+    border: 1px solid black;
+    padding: 10px;
+    margin: 10px 0;
+    background-color: #ffffff;
+    box-shadow: 0 2px 4px black;
+}
+h1 {
+    color: #264712;
+}
+h2 {
+    color: #264712; 
+}
+a {
+    color: #264712; 
+    font-weight: bold; 
+}
+input[type="text"], input[type="email"]
+{
+    background-color: #ffffff; 
+    color: #333333; 
+    border: 1px solid #cccccc; 
+    padding: 5px;
+    width: 100%;
+    margin: 5px 0;
+}
+input[type="submit"] {
+    background-color: #264712;
+    color: #ffffff; 
+    border: none;
+    padding: 10px;
+    cursor: pointer;
+    font-weight: bold;
+}
+</style>
